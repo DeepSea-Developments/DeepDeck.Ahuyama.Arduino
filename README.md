@@ -48,9 +48,7 @@ Here are the features:
   - right top corner led indicates BLE connection status
 - ✅ Gesture sensor
   - ✅ allows to sense left, right , up , down      
-- ✅ Knobs:
-- 🚧 Modification of Layers
-- 💬 Color sensor
+
 ### Standard Libraries:
 We use some libraries that you can find in arduino library manager or directly download using this links
 
