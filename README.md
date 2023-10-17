@@ -70,8 +70,8 @@ and thread safe.
 
 We support all the same original features of the library.Here you can find the original Adafruit libraries and the version that we modifed.
 
-- https://github.com/adafruit/DSD_Adafruit_APDS9960  version 1.2.3
-- https://github.com/adafruit/DSD_Adafruit_SSD1306 version 2.5.7
+- https://github.com/adafruit/Adafruit_APDS9960  version 1.2.3
+- https://github.com/adafruit/Adafruit_SSD1306 version 2.5.7
 
 ### Arduino ESP32 core 
 
