@@ -11,6 +11,7 @@ For complex features we recommend to use Espressif IDF version https://github.co
 
 ## Folder content
 
+```
 ├── ArduinoDeepDeck.ino        Main Arduino application
 ├── BoardPins.h                Pinout definition header
 ├── Definitions.h              Project definitions
@@ -19,6 +20,7 @@ For complex features we recommend to use Espressif IDF version https://github.co
 ├── DSD_Adafruit_APDS9960.zip  Adafruit Gesture sensor library modified
 ├── DSD_Adafruit_SSD1306.zip   Adafruit Display library modified
 └── README.md                  This is the file you are currently reading
+```
 
 
 Here are the features:
@@ -26,8 +28,11 @@ Here are the features:
 ## DeepDeck features
 
 ✅ - Implemented
+
 🚧 - In process of improvement
+
 📝 - In the roadmap
+
 💬 - For feature releases/depending on the community votes
 
 ### Software Features
