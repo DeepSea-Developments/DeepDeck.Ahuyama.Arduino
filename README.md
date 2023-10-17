@@ -55,7 +55,7 @@ Here are the features:
   - ✅ allows to sense left, right , up , down      
 
 ### Standard Libraries:
-We use some libraries that you can find in arduino library manager or directly download using this links
+We use some libraries that you can find in arduino library manager or directly download using these links
 
 - #include <BleKeyboard.h>https://github.com/T-vK/ESP32-BLE-Keyboard
 - #include <Keypad.h> https://github.com/Chris--A/Keypad
