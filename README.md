@@ -75,7 +75,7 @@ We support all the same original features of the library.Here you can find the o
 
 ### Arduino ESP32 core 
 
-We use the core version 2.0.13 ,you can copy this link to Arduino preference 
+We use the core version 2.0.0 ,you can copy this link to Arduino preference 
 
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
